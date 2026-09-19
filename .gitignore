@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+venv_resume/
+venu_resume/
+env/
+.venv/
+
+# Secrets and local config
+.env
+.env.local
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local database
+*.db
+*.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+tmp/
+temp/
+uploads/
