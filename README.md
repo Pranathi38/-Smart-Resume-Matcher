@@ -378,9 +378,18 @@ Location: San Francisco
 
 MIT License - Feel free to use this project for personal or commercial purposes.
 
+#
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+You are free to use, modify, and distribute this project for personal or commercial purposes.
+
 ## 👨‍💻 Author
 
-Built as a comprehensive full-stack AI engineering solution for intelligent resume matching.
+**Pranathi R**
+
+Built as a comprehensive **full-stack AI engineering solution** for intelligent resume matching, combining machine learning, semantic search, and modern web technologies.
 
 ---
 
